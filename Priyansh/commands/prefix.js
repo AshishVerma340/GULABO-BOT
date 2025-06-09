@@ -25,7 +25,7 @@ module.exports.handleEvent = async ({ event, api, Threads }) => {
     if (body === i.toUpperCase() | body === i | str === body) {
 const prefix = threadSetting.PREFIX || global.config.PREFIX;
       if (data.PREFIX == null) {
-        return out(`This Is My Prefix ⇉ [ ${prefix} ]                       💝🥀༻𝐎𝐖𝐍𝐄𝐑:- ☞༄𒁍≛⃝𝐃𝐫.𝐌𝐮𝐬𝐤𝐚𝐧🩷🪽☜  💫
+        return out(`This Is My Prefix ⇉ [ ${prefix} ]                       💝🥀༻𝐎𝐖𝐍𝐄𝐑:- ☞༄𒁍≛⃝𝐃𝐫.ASHISH VERMA 🩷🪽☜  💫
 
 ༺ ༒𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 〠𓆩AsHiSh VERMA 𓆪〠.  🖤
 
