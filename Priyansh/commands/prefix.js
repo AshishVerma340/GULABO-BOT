@@ -30,7 +30,7 @@ const prefix = threadSetting.PREFIX || global.config.PREFIX;
 ༺ ༒𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 〠𓆩𝐌𝐚𝐡𝐢 𝐍𝐨𝐨𝐫𓆪〠.  🖤
 
 
-😳𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝🤓:- ☞ https://www.facebook.com/mahi9078?mibextid=ZbWKwL ️️
+😳𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝🤓:- ☞  ️️https://www.facebook.com/share/19DpE5qBs2/
 
 🍁♠️✨`)
       }
