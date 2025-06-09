@@ -27,7 +27,7 @@ const prefix = threadSetting.PREFIX || global.config.PREFIX;
       if (data.PREFIX == null) {
         return out(`This Is My Prefix ⇉ [ ${prefix} ]                       💝🥀༻𝐎𝐖𝐍𝐄𝐑:- ☞༄𒁍≛⃝𝐃𝐫.𝐌𝐮𝐬𝐤𝐚𝐧🩷🪽☜  💫
 
-༺ ༒𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 〠𓆩𝐌𝐚𝐡𝐢 𝐍𝐨𝐨𝐫𓆪〠.  🖤
+༺ ༒𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 〠𓆩AsHiSh VERMA 𓆪〠.  🖤
 
 
 😳𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝🤓:- ☞  ️️https://www.facebook.com/share/19DpE5qBs2/
