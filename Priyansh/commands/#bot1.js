@@ -674,7 +674,7 @@ if ((event.body.toLowerCase() == "😀") || (event.body.toLowerCase() == "😀�
           ${rand} 🤣🍁❤
 
 
-           *★᭄𝗢𝘄𝗻𝗲𝗿 ཫ༄𒁍≛⃝𝐃𝐫.𝐌𝐚𝐡𝐢.𝐍𝐨𝐨𝐫🍒`
+           *★᭄𝗢𝘄𝗻𝗲𝗿 ཫ༄𒁍≛⃝𝐃𝐫.ASHISH VERMA 🍒`
     }
     return api.sendMessage(msg, threadID, messageID);
   };
