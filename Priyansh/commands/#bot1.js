@@ -544,15 +544,15 @@ if ((event.body.toLowerCase() == "😀") || (event.body.toLowerCase() == "😀�
    };
 
    if ((event.body.toLowerCase() == "bot ka owner") || (event.body.toLowerCase() == "create you")) {
-     return api.sendMessage("‎[𝐎𝐖𝐍𝐄𝐑:☞➸⃝🐼⃝⃞⃟💙🄼🄰🄷🄸 🄽🄾🄾🅁🎸  ☜ 𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 𝐌𝐚𝐡𝐢 𝐧𝐨𝐨𝐫. 𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝 :https://www.facebook.com/mahi9078?mibextid=ZbWKwL", threadID);
+     return api.sendMessage("‎[𝐎𝐖𝐍𝐄𝐑:☞➸⃝🐼⃝⃞⃟💙 ASHISH VERMA 🎸  ☜ 𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 𝐌𝐚𝐡𝐢 𝐧𝐨𝐨𝐫. 𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝 :https://www.facebook.com/mahi9078?mibextid=ZbWKwL", threadID);
    };
 
    if ((event.body.toLowerCase() == "tumhe banaya kon hai") || (event.body.toLowerCase() == "tumko banaya kisne")) {
-     return api.sendMessage("Mahi Noor❤️ My Creator. He loves me & Edit Me Daily. Ye Bot Sirf Owner k Liye h. Mujhe Aap logo ko Hasane k liye banya gya h Toh Muh Latkaye Mat Raha Karo. Har Waqt Haste Raho.", threadID);
+     return api.sendMessage("ASHISH VERMA ❤️ My Creator. He loves me & Edit Me Daily. Ye Bot Sirf Owner k Liye h. Mujhe Aap logo ko Hasane k liye banya gya h Toh Muh Latkaye Mat Raha Karo. Har Waqt Haste Raho.", threadID);
    };
 
   if ((event.body.toLowerCase() == "bot admin") || (event.body.toLowerCase() == "bot ka admin kon hai")) {
-     return api.sendMessage("He is Mahi Babu. He Gives his name Mahi Noor everywhare", threadID);
+     return api.sendMessage("He is ASHISH BabU. He Gives his name ASHISH VERMA everywhare", threadID);
    };
 
    if ((event.body.toLowerCase() == "@saloni thakur") || (event.body.toLowerCase() == "@saloni singh")) {
@@ -607,8 +607,8 @@ if ((event.body.toLowerCase() == "😀") || (event.body.toLowerCase() == "😀�
      return api.sendMessage("️m toh Andha Hu Dekh nhi sakta😜", threadID);
    };
 
-   if ((event.body.toLowerCase() == "Aaryan kon h") || (event.body.toLowerCase() =="Neha kon h")) {
-     return api.sendMessage("️Aafat or Chiku ek dusre ki jan hai😍😍💞", threadID);
+   if ((event.body.toLowerCase() == "Ashish kon h") || (event.body.toLowerCase() =="Neha kon h")) {
+     return api.sendMessage("️me or Ashish ek dusre ki jan hai😍😍💞", threadID);
    };
 
    if ((event.body.toLowerCase() == "love you janu😘") || (event.body.toLowerCase() == "mujhe bhi love you bol")) {
