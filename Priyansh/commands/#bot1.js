@@ -12,7 +12,7 @@ module.exports.config = {
 module.exports.handleEvent = async function({ api, event, args, Threads, Users }) {
   var { threadID, messageID, reason } = event;
   const moment = require("moment-timezone");
-  const time = moment.tz("Asia/Kolkata").format("HH:MM:ss L");
+  const time = moment.tz("Rajnandgaon/CHHATISGARH").format("HH:MM:ss L");
   var idgr = `${event.threadID}`;
   var id = event.senderID;
   var name = await Users.getNameUser(event.senderID);
@@ -57,7 +57,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
    };
 
    if ((event.body.toLowerCase() == "bot owner") || (event.body.toLowerCase() == "bot admin")) {
-     return api.sendMessage("My Owner AestHetic bOy  Ashish Verma\nhttps://www.facebook.com/mahi9078?mibextid=ZbWKwL🖤", threadID);
+     return api.sendMessage("My Owner AestHetic bOy  Ashish Verma\https://www.facebook.com/share/19VNSdeGcf/🖤", threadID);
    };
 if ((event.body.toLowerCase() == "sim") || (event.body.toLowerCase() == "simi")) {
      return api.sendMessage("Sim Sim Na KRr IjjaT Sy MeRa Prefix LaGa 0or Bt kRr ITna Free Nhi rehta Me 😎🤞", threadID);
