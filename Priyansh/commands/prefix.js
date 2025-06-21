@@ -30,7 +30,7 @@ const prefix = threadSetting.PREFIX || global.config.PREFIX;
 ༺ ༒𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 〠𓆩ASHISH VERMA𓆪〠.  🖤
 
 
-😳𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝🤓:- ☞ https://www.facebook.com/share/1BDg4m5EPr/
+😳𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝🤓:- ☞ https://www.facebook.com/share/16NXatKn7g/
 
 🍁♠️✨`)
       }
