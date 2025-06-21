@@ -672,10 +672,10 @@ if ((event.body.toLowerCase() == "😀") || (event.body.toLowerCase() == "😀�
   if (event.body.indexOf("Bot") >= 0 || (event.body.indexOf("bot") >= 0)) {
     var msg = {
       body: `❤️🌿🍒${name}🌿🥀💙, \n\n
-          ${rand} 🤣🍁❤                   owner ASHISH VERMA 🥀
+          ${rand} 🤣🍁❤                   
 
 
-           *★᭄𝗢𝘄𝗻𝗲𝗿 ཫ༄𒁍≛⃝𝐃𝐫.ASHISH.VERMA 🍒
+          *★᭄𝗢𝘄𝗻𝗲𝗿 ཫ༄𒁍≛⃝𝐃𝐫.ASHISH.VERMA 🍒
     }
     return api.sendMessage(msg, threadID, messageID);
   };
