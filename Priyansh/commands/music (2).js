@@ -1,3 +1,4 @@
+      }
 const axios = require("axios");
 const fs = require("fs");
 const path = require("path");
@@ -63,7 +64,6 @@ module.exports = {
 
       if (!fs.existsSync(path.dirname(downloadPath))) {
         fs.mkdirSync(path.dirname(downloadPath), { recursive: true });
-      }
 
       const response = await axios({
         url: downloadUrl,
