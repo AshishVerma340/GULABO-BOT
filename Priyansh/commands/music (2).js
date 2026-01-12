@@ -1,39 +1,3 @@
-      }
-const axios = require("axios");
-const fs = require("fs");
-const path = require("path");
-const ytSearch = require("yt-search");
-
-module.exports = {
-  config: {
-    name: "music",
-    version: "1.0.3",
-    hasPermssion: 0,
-    credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
-    description: "Download YouTube song from keyword search and link",
-    commandCategory: "Media",
-    usages: "[songName] [type]",
-    cooldowns: 5,
-    dependencies: {
-      "node-fetch": "",
-      "yt-search": "",
-    },
-  },
-
-  run: async function ({ api, event, args }) {
-    let songName, type;
-
-    if (
-      args.length > 1 &&
-      (args[args.length - 1] === "audio" || args[args.length - 1] === "video")
-    ) {
-      type = args.pop();
-      songName = args.join(" ");
-    } else {
-      songName = args.join(" ");
-      type = "audio";
-    }
-
     const processingMessage = await api.sendMessage(
       "✅ Processing your request. Please wait...",
       event.threadID,
